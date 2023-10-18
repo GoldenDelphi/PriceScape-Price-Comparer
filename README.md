@@ -1,6 +1,6 @@
 # PriceScape-Price-Comparer
 
-PriceScape is a web scraping and data analysis tool developed to analyze and compare product prices and discounts from various e-commerce platforms. This project helps you make data-driven decisions to improve your platform's sales performance and pricing strategies. This tool was created for the e-commerce platform Purplle, to help enhance their platform.
+PriceScape is a web scraping and data analysis tool developed to analyze and compare product prices and discounts from various e-commerce platforms. This project helps you make data-driven decisions to improve your platform's sales performance and pricing strategies. This script was created for the e-commerce platform Purplle, to help enhance their platform.
 
 ## Features
 
